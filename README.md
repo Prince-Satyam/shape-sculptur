@@ -21,3 +21,6 @@ Click on `Edit Vertex` button to enter the edit vertex mode for editing the vert
 2. Go to the repo location and checkout to dev branch using command `git checkout dev`
 3. Open the project in VS Code or you can continue on cmd to install the node modules by entering command `npm i`
 4. Once the node module installation process completes, run `npm run dev` to start the server and hit the printed url in web browser to work with the webapp
+
+## Video description link:
+https://drive.google.com/file/d/1OBmBlVoW9f1C1MANaLocwF6quOIw7rig/view?usp=sharing
